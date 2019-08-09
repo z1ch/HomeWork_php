@@ -1,0 +1,478 @@
+@font-face {
+    font-family: 'Arial MT';
+    src: url(../Font/16063.ttf);
+}
+
+.headerMain {
+    margin: 0 auto;
+    width: 1180px;
+    height: 223px;
+    background-color: #445162;
+    padding: 50px 50px 50px 50px;
+    position: relative;
+}
+
+.headerProductName {
+    display: block;
+    width: 374px;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.headerMain ul {
+    width: 422px;
+    height: 127px;
+    list-style-image: url(../Pictures/check_icon.png);
+    float: left;
+}
+
+.headerMain ul li {
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.headerMain video {
+    width: 380px;
+    height: 214px;
+    position: absolute;
+    left: 761px;
+    top: 59px;
+}
+
+.headerMain img {
+    margin: 0 0 59px 249px;
+}
+
+.mainMain {
+    display: block;
+    width: 1180px;
+    height: 2763px;
+    margin: 0 auto;
+    padding: 50px 50px 50px 50px;
+}
+
+.mainMain h2 {
+    color: #445161;
+    font-family: "Arial MT", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.mainMain .aboutProduct p {
+    width: 649px;
+    height: 63px;
+    color: #333333;
+    font-family: "Arial MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    float: left;
+}
+
+.mainMain .aboutProduct figure {
+    width: 430px;
+    height: 245px;
+    background-color: #445161;
+    margin: 0;
+    margin: -60px 0 0 750px;
+}
+
+.mainMain .dignityMain h2 {
+    display: block;
+    width: 354px;
+    margin: 100px 0 0 400px;
+}
+
+.mainMain .dignityMain ul {
+    width: 1116px;
+    height: 317px;
+    margin: 0;
+    margin: 30px 0 0 0;
+}
+
+.mainMain .dignityMain ul li {
+    width: 50%;
+    float: left;
+    color: #333;
+    font-family: "Arial MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 35px 0;
+}
+
+.scrinshotsMain h2 {
+    display: block;
+    width: 138px;
+    margin: 65px 0 35px 521px;
+}
+
+.scrinshotsMain article {
+    float: left;
+}
+
+.scrinshotsMain img {
+    display: inline-block;
+    text-align: right;
+    float: left;
+    margin: 0 15px 30px 0;
+}
+
+.scrinshotsMain h3 {
+    display: inline-block;
+    color: #445161;
+    font-family: "Arial MT", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0;
+}
+
+.scrinshotsMain p {
+    width: 359px;
+    height: 108px;
+    color: #333333;
+    font-family: "Arial MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 7px 16px 0 215px;
+}
+
+.reviewsMain h2 {
+    display: inline-block;
+    margin: 70px 0 35px 525px;
+}
+
+.reviewsMain img {
+    float: left;
+    margin: 0 16px 0 0;
+}
+
+.reviewsMain div {
+    display: inline-block;
+    width: 483px;
+    height: 131px;
+    background-color: #ebebeb;
+    float: left;
+    margin: 0 16px 24px 0;
+}
+
+.reviewsMain div p {
+    color: #333;
+    font-family: "Arial MT", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 16px 20px 15px 27px;
+}
+
+.reviewsMain div h6 {
+    color: #989898;
+    font-family: "Arial MT", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 15px 389px 16px 26px;
+}
+
+.buyMain h2 {
+    display: inline-block;
+    margin: 100px 0 30px 522px;
+}
+
+.buyMain .lux {
+    display: inline-block;
+    width: 300px;
+    height: 499px;
+    background-color: #445162;
+    float: right;
+    margin-right: 95px;
+}
+
+.buyMain .lux h3 {
+    width: 38px;
+    height: 17px;
+    color: #fff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 17px 131px 17px 131px;
+}
+
+.buyMain .lux div {
+    background-color: #fff;
+    width: 296px;
+    height: 71px;
+    border: 2px solid #445162;
+}
+
+.buyMain .lux div p {
+    width: 87px;
+    height: 35px;
+    color: #445162;
+    font-family: "Arial MT", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 18px 106px 18px 106px;
+}
+
+.buyMain .lux ol {
+    width: 250px;
+    height: 278px;
+    color: #ffffff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0;
+    margin: 20px 30px 19px 40px;
+}
+
+.buyMain .lux button {
+    width: 260px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 20px 0 20px;
+}
+
+.buyMain .lux button a {
+    width: 37px;
+    height: 13px;
+    color: #445161;
+    font-family: "Arial - Bold MT", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.buyMain .premium {
+    display: inline-block;
+    width: 300px;
+    height: 404px;
+    background-color: #445162;
+    float: right;
+    margin: 95px 45px 0 0;
+}
+
+.buyMain .premium h3 {
+    width: 94px;
+    height: 17px;
+    color: #ffffff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 17px 103px 17px 103px;
+}
+
+.buyMain .premium div {
+    background-color: #fff;
+    width: 296px;
+    height: 71px;
+    border: 2px solid #445162;
+}
+
+.buyMain .premium div p {
+    width: 87px;
+    height: 35px;
+    color: #445162;
+    font-family: "Arial MT", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 18px 106px 18px 106px;
+}
+
+.buyMain .premium ol {
+    width: 242px;
+    height: 182px;
+    color: #ffffff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0;
+    margin: 20px 30px 19px 40px;
+}
+
+.buyMain .premium button {
+    width: 260px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 20px 0 20px;
+}
+
+.buyMain .premium button a {
+    width: 37px;
+    height: 13px;
+    color: #445161;
+    font-family: "Arial - Bold MT", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.buyMain .standart {
+    display: inline-block;
+    width: 300px;
+    height: 306px;
+    background-color: #445162;
+    float: right;
+    margin: 190px 45px 0 0;
+}
+
+.buyMain .standart h3 {
+    width: 94px;
+    height: 17px;
+    color: #ffffff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 17px 103px 17px 103px;
+}
+
+.buyMain .standart div {
+    background-color: #fff;
+    width: 296px;
+    height: 71px;
+    border: 2px solid #445162;
+}
+
+.buyMain .standart div p {
+    width: 87px;
+    height: 35px;
+    color: #445162;
+    font-family: "Arial MT", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 18px 106px 18px 106px;
+}
+
+.buyMain .standart ol {
+    width: 242px;
+    height: 86px;
+    color: #ffffff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0;
+    margin: 20px 30px 19px 40px;
+}
+
+.buyMain .standart button {
+    width: 260px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 20px 0 20px;
+}
+
+.buyMain .standart button a {
+    width: 37px;
+    height: 13px;
+    color: #445161;
+    font-family: "Arial - Bold MT", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.footerMain {
+    width: 1280px;
+    height: 559px;
+    margin: 0 auto;
+    background-color: #445162;
+}
+
+.footerMain h2 {
+    display: inline-block;
+    width: 117px;
+    height: 22px;
+    color: #ffffff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin: 53px 582px 31px 582px;
+}
+
+.footerMain input:not(.message):not([type="submit"]) {
+    width: 500px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 7px;
+    margin: 0 45px 21px 249px;
+    color: #445162;
+    font-family: "Arial MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    float: left;
+}
+
+.footerMain .message {
+    width: 500px;
+    height: 170px;
+    background-color: #fff;
+    border-radius: 7px;
+    margin: 0 0 21px 249px;
+    color: #445162;
+    font-family: "Arial MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    float: left;
+}
+
+.footerMain input[type="submit"] {
+    width: 140px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 7px;
+    margin: 0 0 0 429px;
+    color: #445162;
+    font-family: "Arial - Bold MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    float: left;
+}
+
+.footerMain a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Arial MT", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 10px 5px;
+}
+
+.footerMain img[alt="social networks"] {
+    margin: 32px 0 0 45px;
+}
